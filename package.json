@@ -12,12 +12,10 @@
     "license": "ISC",
     "dependencies": {
         "bluebird": "^3.5.0",
-        "cuti": "git+https://github.com/capiotsoftware/cuti.git",
         "express": "^4.15.2",
-        "log4js": "^1.1.1",
-        "mongoose": "^4.9.9",
-        "puttu-redis": "git+https://github.com/capiotsoftware/puttu-redis.git",
-        "swagger-express-mw": "^0.1.0",
-        "swagger-mongoose-crud": "git+https://github.com/capiotsoftware/swagger-mongoose-crud.git"
+        "lodash": "^4.17.5",
+        "mongoose": "^5.0.0",
+        "restified-mongo-crud": "^1.0.0",
+        "swagger-express-mw": "^0.1.0"
     }
 }
